@@ -1,9 +1,6 @@
 Rodolfo Perez
 Tomasz Kotowski
 Phillip Lafferty
-<<<<<<< HEAD
+KW
 Fraser Wilson
-=======
 Alex Jasz
-
->>>>>>> 89ae86d9f8105e6199394e81caa2ff5ca54051f6
