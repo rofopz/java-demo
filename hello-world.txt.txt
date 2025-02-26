@@ -1,6 +1,6 @@
 Rodolfo Perez
-Ross Bain
 Tomasz Kotowski
+Ross Bain
 Matthew McHendry
 Phillip Lafferty
 Bradley Robertson 22005015
