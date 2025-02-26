@@ -1,6 +1,6 @@
 Rodolfo Perez
-Matthew McHendry
 Tomasz Kotowski
+Matthew McHendry
 Phillip Lafferty
 Bradley Robertson 22005015
 KW
