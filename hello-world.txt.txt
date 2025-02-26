@@ -1,3 +1,4 @@
 Rodolfo Perez
-Phillip Lafferty
 Tomasz Kotowski
+Phillip Lafferty
+Alex Jasz
