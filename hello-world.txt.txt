@@ -1,2 +1,6 @@
 Rodolfo Perez
+<<<<<<< HEAD
 Tomasz Kotowski
+=======
+Phillip Lafferty
+>>>>>>> cac77fc628a78a08eaa733e7a89a38657772fffc
